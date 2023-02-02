@@ -1,0 +1,501 @@
+province_state,confirmed,date
+Ohio,107,2020-08-04
+Florida,5354,2020-08-04
+Florida,1206,2020-08-04
+Georgia,108,2020-08-04
+Maryland,1088,2020-08-04
+Michigan,4007,2020-08-04
+New York,651,2020-08-04
+New York,18548,2020-08-04
+New York,81803,2020-08-04
+New York,4075,2020-08-04
+Oklahoma,317,2020-08-04
+Louisiana,5070,2020-08-04
+Wisconsin,1416,2020-08-04
+New Jersey,992,2020-08-04
+New Jersey,4156,2020-08-04
+New Jersey,3038,2020-08-04
+New Jersey,2468,2020-08-04
+New Jersey,2856,2020-08-04
+New Jersey,4372,2020-08-04
+Connecticut,1664,2020-08-04
+Pennsylvania,1521,2020-08-04
+Pennsylvania,4777,2020-08-04
+Massachusetts,3545,2020-08-04
+Massachusetts,1778,2020-08-04
+Massachusetts,1327,2020-08-04
+Iowa,1,2020-08-04
+Iowa,2,2020-08-04
+Iowa,6,2020-08-04
+Iowa,1,2020-08-04
+Iowa,3,2020-08-04
+Iowa,3,2020-08-04
+Iowa,4,2020-08-04
+Iowa,11,2020-08-04
+Ohio,1,2020-08-04
+Ohio,2,2020-08-04
+Ohio,2,2020-08-04
+Ohio,6,2020-08-04
+Ohio,6,2020-08-04
+Ohio,6,2020-08-04
+Ohio,2,2020-08-04
+Ohio,6,2020-08-04
+Ohio,35,2020-08-04
+Ohio,1,2020-08-04
+Ohio,8,2020-08-04
+Ohio,0,2020-08-04
+Ohio,25,2020-08-04
+Idaho,3,2020-08-04
+Idaho,2,2020-08-04
+Idaho,2,2020-08-04
+Maine,12,2020-08-04
+Maine,31,2020-08-04
+Texas,2,2020-08-04
+Texas,1,2020-08-04
+Texas,7,2020-08-04
+Texas,0,2020-08-04
+Texas,7,2020-08-04
+Texas,7,2020-08-04
+Texas,1,2020-08-04
+Texas,1,2020-08-04
+Texas,9,2020-08-04
+Texas,1,2020-08-04
+Texas,1,2020-08-04
+Texas,65,2020-08-04
+Texas,29,2020-08-04
+Texas,3,2020-08-04
+Texas,6,2020-08-04
+Texas,1,2020-08-04
+Texas,8,2020-08-04
+Texas,1,2020-08-04
+Alaska,5,2020-08-04
+Alaska,2,2020-08-04
+Hawaii,2,2020-08-04
+Kansas,11,2020-08-04
+Kansas,2,2020-08-04
+Kansas,2,2020-08-04
+Kansas,11,2020-08-04
+Kansas,2,2020-08-04
+Kansas,1,2020-08-04
+Kansas,1,2020-08-04
+Kansas,3,2020-08-04
+Kansas,2,2020-08-04
+Kansas,3,2020-08-04
+Kansas,5,2020-08-04
+Kansas,1,2020-08-04
+Kansas,10,2020-08-04
+Kansas,3,2020-08-04
+Kansas,19,2020-08-04
+Nevada,7,2020-08-04
+Oregon,2,2020-08-04
+Alabama,31,2020-08-04
+Alabama,0,2020-08-04
+Alabama,15,2020-08-04
+Alabama,16,2020-08-04
+Arizona,23,2020-08-04
+Arizona,124,2020-08-04
+Florida,29,2020-08-04
+Florida,4,2020-08-04
+Georgia,3,2020-08-04
+Georgia,18,2020-08-04
+Georgia,12,2020-08-04
+Georgia,12,2020-08-04
+Georgia,11,2020-08-04
+Georgia,10,2020-08-04
+Georgia,22,2020-08-04
+Georgia,8,2020-08-04
+Georgia,5,2020-08-04
+Georgia,4,2020-08-04
+Georgia,5,2020-08-04
+Indiana,12,2020-08-04
+Indiana,60,2020-08-04
+Indiana,17,2020-08-04
+Indiana,1,2020-08-04
+Indiana,17,2020-08-04
+Indiana,5,2020-08-04
+Indiana,85,2020-08-04
+Indiana,5,2020-08-04
+Indiana,1,2020-08-04
+Montana,1,2020-08-04
+Montana,1,2020-08-04
+Montana,7,2020-08-04
+Montana,3,2020-08-04
+Montana,2,2020-08-04
+Vermont,4,2020-08-04
+Vermont,8,2020-08-04
+Wyoming,26,2020-08-04
+Wyoming,1,2020-08-04
+Wyoming,0,2020-08-04
+Arkansas,16,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,6,2020-08-04
+Arkansas,6,2020-08-04
+Arkansas,20,2020-08-04
+Arkansas,1,2020-08-04
+Arkansas,6,2020-08-04
+Colorado,32,2020-08-04
+Colorado,2,2020-08-04
+Colorado,3,2020-08-04
+Colorado,23,2020-08-04
+Colorado,4,2020-08-04
+Colorado,3,2020-08-04
+Colorado,5,2020-08-04
+Colorado,4,2020-08-04
+Colorado,1,2020-08-04
+Colorado,5,2020-08-04
+Illinois,3,2020-08-04
+Illinois,2,2020-08-04
+Illinois,2,2020-08-04
+Illinois,2,2020-08-04
+Illinois,2,2020-08-04
+Illinois,12,2020-08-04
+Illinois,4,2020-08-04
+Illinois,1,2020-08-04
+Illinois,31,2020-08-04
+Illinois,1,2020-08-04
+Kentucky,2,2020-08-04
+Kentucky,1,2020-08-04
+Kentucky,2,2020-08-04
+Kentucky,3,2020-08-04
+Kentucky,4,2020-08-04
+Kentucky,6,2020-08-04
+Kentucky,27,2020-08-04
+Kentucky,4,2020-08-04
+Kentucky,1,2020-08-04
+Kentucky,1,2020-08-04
+Kentucky,8,2020-08-04
+Kentucky,2,2020-08-04
+Kentucky,3,2020-08-04
+Kentucky,1,2020-08-04
+Kentucky,1,2020-08-04
+Maryland,16,2020-08-04
+Michigan,1,2020-08-04
+Michigan,152,2020-08-04
+Michigan,3,2020-08-04
+Michigan,3,2020-08-04
+Michigan,0,2020-08-04
+Michigan,3,2020-08-04
+Michigan,2,2020-08-04
+Michigan,55,2020-08-04
+Michigan,1,2020-08-04
+Missouri,3,2020-08-04
+Missouri,4,2020-08-04
+Missouri,5,2020-08-04
+Missouri,1,2020-08-04
+Missouri,5,2020-08-04
+Missouri,6,2020-08-04
+Missouri,2,2020-08-04
+Missouri,1,2020-08-04
+Missouri,4,2020-08-04
+Missouri,3,2020-08-04
+Missouri,31,2020-08-04
+Missouri,3,2020-08-04
+Missouri,1,2020-08-04
+Missouri,4,2020-08-04
+Missouri,18,2020-08-04
+Missouri,1,2020-08-04
+Missouri,1,2020-08-04
+Missouri,7,2020-08-04
+Missouri,7,2020-08-04
+Missouri,2,2020-08-04
+Missouri,2,2020-08-04
+Nebraska,2,2020-08-04
+Nebraska,1,2020-08-04
+Nebraska,1,2020-08-04
+Nebraska,1,2020-08-04
+Nebraska,5,2020-08-04
+New York,39,2020-08-04
+New York,16,2020-08-04
+Oklahoma,15,2020-08-04
+Oklahoma,2,2020-08-04
+Oklahoma,1,2020-08-04
+Oklahoma,6,2020-08-04
+Oklahoma,10,2020-08-04
+Oklahoma,11,2020-08-04
+Oklahoma,15,2020-08-04
+Oklahoma,2,2020-08-04
+Oklahoma,24,2020-08-04
+Oklahoma,7,2020-08-04
+Oklahoma,9,2020-08-04
+Virginia,0,2020-08-04
+Virginia,2,2020-08-04
+Virginia,16,2020-08-04
+Virginia,0,2020-08-04
+Virginia,16,2020-08-04
+Virginia,3,2020-08-04
+Virginia,11,2020-08-04
+Virginia,77,2020-08-04
+Virginia,2,2020-08-04
+Virginia,3,2020-08-04
+Virginia,0,2020-08-04
+Virginia,3,2020-08-04
+Virginia,7,2020-08-04
+Virginia,3,2020-08-04
+Virginia,0,2020-08-04
+Virginia,9,2020-08-04
+Virginia,3,2020-08-04
+Virginia,4,2020-08-04
+Virginia,41,2020-08-04
+Virginia,4,2020-08-04
+Virginia,3,2020-08-04
+Virginia,24,2020-08-04
+Virginia,2,2020-08-04
+Virginia,1,2020-08-04
+Virginia,1,2020-08-04
+Virginia,2,2020-08-04
+Virginia,119,2020-08-04
+Virginia,9,2020-08-04
+Virginia,14,2020-08-04
+Louisiana,23,2020-08-04
+Louisiana,25,2020-08-04
+Louisiana,27,2020-08-04
+Louisiana,13,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,18,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,5,2020-08-04
+Minnesota,2,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,1,2020-08-04
+Minnesota,2,2020-08-04
+Minnesota,4,2020-08-04
+Tennessee,29,2020-08-04
+Tennessee,3,2020-08-04
+Tennessee,7,2020-08-04
+Tennessee,3,2020-08-04
+Tennessee,6,2020-08-04
+Tennessee,0,2020-08-04
+Tennessee,5,2020-08-04
+Tennessee,282,2020-08-04
+Tennessee,5,2020-08-04
+Tennessee,3,2020-08-04
+Tennessee,3,2020-08-04
+Tennessee,81,2020-08-04
+Tennessee,0,2020-08-04
+Tennessee,5,2020-08-04
+Wisconsin,1,2020-08-04
+Wisconsin,5,2020-08-04
+Wisconsin,1,2020-08-04
+Wisconsin,5,2020-08-04
+Wisconsin,0,2020-08-04
+Wisconsin,7,2020-08-04
+Wisconsin,4,2020-08-04
+Wisconsin,3,2020-08-04
+California,4,2020-08-04
+California,3,2020-08-04
+New Mexico,3,2020-08-04
+New Mexico,6,2020-08-04
+Washington,17,2020-08-04
+Washington,10,2020-08-04
+Washington,1,2020-08-04
+Mississippi,13,2020-08-04
+Mississippi,7,2020-08-04
+Mississippi,5,2020-08-04
+Mississippi,10,2020-08-04
+Mississippi,12,2020-08-04
+North Dakota,1,2020-08-04
+North Dakota,5,2020-08-04
+North Dakota,2,2020-08-04
+North Dakota,0,2020-08-04
+North Dakota,20,2020-08-04
+North Dakota,1,2020-08-04
+North Dakota,2,2020-08-04
+North Dakota,3,2020-08-04
+Pennsylvania,1,2020-08-04
+Pennsylvania,27,2020-08-04
+Pennsylvania,10,2020-08-04
+Pennsylvania,37,2020-08-04
+Pennsylvania,22,2020-08-04
+Pennsylvania,3,2020-08-04
+Rhode Island,56,2020-08-04
+South Dakota,1,2020-08-04
+South Dakota,1,2020-08-04
+New Hampshire,56,2020-08-04
+West Virginia,6,2020-08-04
+West Virginia,3,2020-08-04
+West Virginia,6,2020-08-04
+West Virginia,3,2020-08-04
+West Virginia,4,2020-08-04
+West Virginia,2,2020-08-04
+West Virginia,18,2020-08-04
+West Virginia,1,2020-08-04
+West Virginia,1,2020-08-04
+West Virginia,6,2020-08-04
+West Virginia,10,2020-08-04
+West Virginia,4,2020-08-04
+West Virginia,3,2020-08-04
+West Virginia,2,2020-08-04
+North Carolina,13,2020-08-04
+North Carolina,3,2020-08-04
+North Carolina,53,2020-08-04
+North Carolina,81,2020-08-04
+North Carolina,3,2020-08-04
+North Carolina,10,2020-08-04
+North Carolina,2,2020-08-04
+North Carolina,2,2020-08-04
+North Carolina,7,2020-08-04
+North Carolina,8,2020-08-04
+North Carolina,2,2020-08-04
+South Carolina,2,2020-08-04
+South Carolina,7,2020-08-04
+South Carolina,9,2020-08-04
+South Carolina,30,2020-08-04
+South Carolina,21,2020-08-04
+Iowa,61,2020-08-04
+Iowa,6,2020-08-04
+Ohio,11,2020-08-04
+Idaho,6,2020-08-04
+Texas,62,2020-08-04
+Texas,30,2020-08-04
+Texas,4,2020-08-04
+Texas,3,2020-08-04
+Texas,4,2020-08-04
+Texas,47,2020-08-04
+Texas,40,2020-08-04
+Hawaii,48,2020-08-04
+Oregon,28,2020-08-04
+Alabama,5,2020-08-04
+Arizona,404,2020-08-04
+Florida,78,2020-08-04
+Florida,21,2020-08-04
+Georgia,16,2020-08-04
+Georgia,12,2020-08-04
+Georgia,57,2020-08-04
+Georgia,33,2020-08-04
+Georgia,2,2020-08-04
+Georgia,66,2020-08-04
+Georgia,36,2020-08-04
+Indiana,82,2020-08-04
+Indiana,6,2020-08-04
+Indiana,11,2020-08-04
+Indiana,27,2020-08-04
+Indiana,7,2020-08-04
+Montana,25,2020-08-04
+Colorado,8,2020-08-04
+Colorado,0,2020-08-04
+Illinois,20,2020-08-04
+Illinois,4,2020-08-04
+Illinois,8,2020-08-04
+Illinois,16,2020-08-04
+Kentucky,13,2020-08-04
+Kentucky,1,2020-08-04
+Kentucky,13,2020-08-04
+Michigan,8,2020-08-04
+Michigan,24,2020-08-04
+Michigan,1,2020-08-04
+Michigan,18,2020-08-04
+Michigan,3,2020-08-04
+Michigan,126,2020-08-04
+Missouri,12,2020-08-04
+New York,18,2020-08-04
+New York,155,2020-08-04
+New York,38,2020-08-04
+Oklahoma,23,2020-08-04
+Oklahoma,20,2020-08-04
+Virginia,60,2020-08-04
+Virginia,263,2020-08-04
+Louisiana,3,2020-08-04
+Tennessee,4,2020-08-04
+Wisconsin,25,2020-08-04
+California,19,2020-08-04
+California,34,2020-08-04
+Mississippi,19,2020-08-04
+Mississippi,12,2020-08-04
+Mississippi,30,2020-08-04
+Mississippi,19,2020-08-04
+Mississippi,14,2020-08-04
+Mississippi,33,2020-08-04
+Mississippi,13,2020-08-04
+North Dakota,1,2020-08-04
+North Dakota,18,2020-08-04
+Pennsylvania,13,2020-08-04
+South Dakota,2,2020-08-04
+South Dakota,6,2020-08-04
+West Virginia,68,2020-08-04
+North Carolina,13,2020-08-04
+North Carolina,25,2020-08-04
+North Carolina,54,2020-08-04
+North Carolina,24,2020-08-04
+North Carolina,51,2020-08-04
+Ohio,147,2020-08-04
+Idaho,17,2020-08-04
+Texas,25,2020-08-04
+Alabama,77,2020-08-04
+Alabama,15,2020-08-04
+Florida,125,2020-08-04
+Georgia,19,2020-08-04
+Georgia,10,2020-08-04
+Indiana,11,2020-08-04
+Arkansas,179,2020-08-04
+Colorado,39,2020-08-04
+Colorado,45,2020-08-04
+Illinois,65,2020-08-04
+Michigan,29,2020-08-04
+New York,125,2020-08-04
+New York,34,2020-08-04
+Oklahoma,12,2020-08-04
+Oklahoma,21,2020-08-04
+Minnesota,108,2020-08-04
+Tennessee,72,2020-08-04
+Wisconsin,66,2020-08-04
+California,64,2020-08-04
+California,25,2020-08-04
+New Mexico,87,2020-08-04
+Mississippi,79,2020-08-04
+South Dakota,228,2020-08-04
+North Carolina,37,2020-08-04
+North Carolina,37,2020-08-04
+Texas,42,2020-08-04
+Florida,51,2020-08-04
+Georgia,67,2020-08-04
+Georgia,82,2020-08-04
+Georgia,76,2020-08-04
+Indiana,76,2020-08-04
+Colorado,35,2020-08-04
+New York,88,2020-08-04
+Louisiana,275,2020-08-04
+Minnesota,112,2020-08-04
+California,34,2020-08-04
+Mississippi,60,2020-08-04
+Rhode Island,832,2020-08-04
+Iowa,134,2020-08-04
+Ohio,94,2020-08-04
+Texas,210,2020-08-04
+Florida,272,2020-08-04
+Michigan,42,2020-08-04
+Louisiana,135,2020-08-04
+California,117,2020-08-04
+Connecticut,85,2020-08-04
+Florida,206,2020-08-04
+Illinois,180,2020-08-04
+Oklahoma,33,2020-08-04
+New York,422,2020-08-04
+Pennsylvania,148,2020-08-04
+Oregon,258,2020-08-04
+New York,427,2020-08-04
+Louisiana,123,2020-08-04
+Wisconsin,70,2020-08-04
+Connecticut,150,2020-08-04
+South Carolina,340,2020-08-04
+Ohio,108,2020-08-04
+Alabama,249,2020-08-04
+Florida,394,2020-08-04
+Delaware,636,2020-08-04
+Florida,803,2020-08-04
+North Carolina,848,2020-08-04
+Arizona,464,2020-08-04
+Washington,795,2020-08-04
+California,1016,2020-08-04
+Pennsylvania,671,2020-08-04
+Pennsylvania,857,2020-08-04
+Maryland,1310,2020-08-04
+California,1179,2020-08-04
